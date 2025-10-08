@@ -1,4 +1,4 @@
-# Vehicle_and_Object_Detection_Tracking_Counting 
+# Vehicle_and_Object_Detection_Tracking_Counting - using mobilenet ssd
   
 ##Open CV, MobileNetSSD detector, Centroid Tracking
   
