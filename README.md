@@ -47,7 +47,7 @@ The tracking part uses the Centroid algorithm given in https://www.pyimagesearch
   Input image from:[Link](https://github.com/ahmetozlu/tensorflow_object_counting_api/blob/master/input_images_and_videos/vehicle_survaillance.mp4)
     
   ## Results
-  There were many false positives. We will monitor the model performance and do some feature engineering steps if required , while keeping the recall high.
+  There were many false positives. We will monitor the model performance and do some feature engineering steps if required ,while keeping the recall high.
   
   
   
